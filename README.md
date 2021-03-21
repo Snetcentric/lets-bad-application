@@ -1,3 +1,6 @@
+
+CxFlowMasterPush-Test1
+
 # Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities
 
 The Internet is a dangerous place, filled with evildoers out to attack your code
@@ -248,6 +251,6 @@ future reference:
 [slides6]: https://speakerdeck.com/mpirnat/shiny-lets-be-bad-guys-exploiting-and-mitigating-the-top-10-web-app-vulnerabilities-pycon-2016-edition
 [slides7]: https://speakerdeck.com/mpirnat/shiny-lets-be-bad-guys-exploiting-and-mitigating-the-top-10-web-app-vulnerabilities-codemash-2017-edition
 [windows-path]: http://www.java.com/en/download/help/path.xml
-CxFlowMasterPush-Test1
 
-CxFlowMasterPush-Test2
+
+
