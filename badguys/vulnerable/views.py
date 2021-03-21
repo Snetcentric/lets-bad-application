@@ -173,9 +173,9 @@ def csrf_image(request):
 
 ## 10 - Unvalidated Redirects & Forwards
 
-#def unvalidated_redirect(request):
- #   url = request.GET.get('url')
-  #  return redirect(url)
+def unvalidated_redirect(request):
+    url = request.GET.get('url')
+    return redirect(url)
 
 
 def unvalidated_forward(request):
